@@ -5,9 +5,9 @@
 
 ---
 ### Introduction
-    In this project, I comprehensively analysed student results using Python. The aim was to understand the performance trends and derive meaningful insights from the data.
+In this project, I comprehensively analysed student results using Python. The aim was to understand the performance trends and derive meaningful insights from the data.
 ### Objective: 
-    The primary objective was to analyze student results to identify patterns, trends, and areas for improvement. This involved cleaning, exploring, and visualizing the data to make informed decisions.
+The primary objective was to analyze student results to identify patterns, trends, and areas for improvement. This involved cleaning, exploring, and visualizing the data to make informed decisions.
 ### Tools Used:
     Python, Pandas, Matplotlib, Seaborn.
 
